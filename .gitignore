@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+# Videos and generated outputs
+*.MOV
+*.mov
+*.mp4
+*.zip
+dataset/
+.DS_Store
+Thumbs.db
